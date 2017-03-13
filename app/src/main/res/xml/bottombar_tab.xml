@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/bbn_item1"
+        icon="@mipmap/ic_home_gray"
+        title="首页" />
+    <tab
+        id="@+id/bbn_item2"
+        icon="@mipmap/ic_discovery_gray"
+        title="发现" />
+    <tab
+        id="@+id/bbn_item3"
+        icon="@mipmap/ic_message_gray"
+        title="消息" />
+    <tab
+        id="@+id/bbn_item4"
+        icon="@mipmap/ic_more_gray"
+        title="更多" />
+</tabs>

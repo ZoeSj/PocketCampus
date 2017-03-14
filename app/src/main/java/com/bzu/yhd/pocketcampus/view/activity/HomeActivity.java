@@ -1,5 +1,7 @@
 package com.bzu.yhd.pocketcampus.view.activity;
 
+import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.annotation.IdRes;
@@ -15,7 +17,7 @@ import com.bzu.yhd.pocketcampus.R;
 import com.bzu.yhd.pocketcampus.view.fragment.FirstFragment;
 import com.bzu.yhd.pocketcampus.view.fragment.MovieListFragment;
 import com.bzu.yhd.pocketcampus.view.fragment.SecondFragment;
-import com.bzu.yhd.pocketcampus.view.fragment.ThirdFragment;
+import com.bzu.yhd.pocketcampus.view.fragment.UserInfoFragment;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.BottomBarTab;
 import com.roughike.bottombar.OnTabReselectListener;
@@ -27,13 +29,20 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by iiro on 7.6.2016.
+ * 首页
+ * @CreateBy Administrator
+ * </p>
+ * @CreateOn 2017/3/14 10:07
  */
 public class HomeActivity extends BaseActivity {
     private List<Fragment> fragments = new ArrayList<>();
     private int currentTabIndex;
     private int position;
     private BottomBarTab nearby;
+
+    public static void navigation(Activity activity) {
+        activity.startActivity(new Intent(activity, HomeActivity.class));
+    }
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -76,7 +85,7 @@ public class HomeActivity extends BaseActivity {
         fragments.add(MovieListFragment.newInstance(0));
         fragments.add(FirstFragment.newInstance(2));
         fragments.add(SecondFragment.newInstance("sss","sss"));
-        fragments.add(ThirdFragment.newInstance("sss","sss"));
+        fragments.add(UserInfoFragment.newInstance("sss","sss"));
     }
 
     private void initBottomBar(Bundle savedInstanceState)

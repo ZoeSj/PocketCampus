@@ -1,66 +1,66 @@
 [
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c3d881828e4f57bb99a7ed2607bbefc2a017ebf2\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\e39f39c4507297660bb1fedbd1ca399e00db765b\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c3d881828e4f57bb99a7ed2607bbefc2a017ebf2\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\e39f39c4507297660bb1fedbd1ca399e00db765b\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\e39f39c4507297660bb1fedbd1ca399e00db765b\\output\\res\\anim\\design_fab_out.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c3d881828e4f57bb99a7ed2607bbefc2a017ebf2\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\e39f39c4507297660bb1fedbd1ca399e00db765b\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c3d881828e4f57bb99a7ed2607bbefc2a017ebf2\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c3d881828e4f57bb99a7ed2607bbefc2a017ebf2\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c3d881828e4f57bb99a7ed2607bbefc2a017ebf2\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\e39f39c4507297660bb1fedbd1ca399e00db765b\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\e39f39c4507297660bb1fedbd1ca399e00db765b\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "F:\\Github\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\yinha\\.android\\build-cache\\4ff7c3951405ff824ac98ed30301daca585a8848\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\anim\\abc_slide_in_top.xml"
     }
 ]

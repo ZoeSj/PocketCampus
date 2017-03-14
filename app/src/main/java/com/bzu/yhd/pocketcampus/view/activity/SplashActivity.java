@@ -106,7 +106,7 @@ public class SplashActivity extends BaseActivity {
         mHandler.postDelayed(new Runnable() {
             @Override
             public void run() {
-                MainActivity.navigation(SplashActivity.this);
+                HomeActivity.navigation(SplashActivity.this);
                 overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out);
                 finish();
             }

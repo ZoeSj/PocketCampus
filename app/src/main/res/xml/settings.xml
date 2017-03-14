@@ -26,11 +26,12 @@
         <Preference
             android:key="@string/key_theme"
             android:order="3"
-            android:title="主题"/>
+            android:title="变色龙主题"/>
     </PreferenceCategory>
 
     <PreferenceCategory
         android:title="其他">
+
         <Preference
             android:key="@string/key_cache"
             android:order="4"
@@ -40,7 +41,7 @@
             android:key="@string/key_feedback"
             android:order="5"
             android:title="意见反馈"
-            android:summary="点赞与吐槽"/>
+            android:summary="欢迎吐槽"/>
     </PreferenceCategory>
 
 </PreferenceScreen>

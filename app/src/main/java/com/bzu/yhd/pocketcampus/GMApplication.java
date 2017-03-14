@@ -9,8 +9,10 @@ import com.bzu.yhd.pocketcampus.util.SharedPrefHelper;
 import org.polaric.colorful.Colorful;
 
 /**
- * <p/>
- * Created by woxingxiao on 2017-01-25.
+ * 
+ * @CreateBy Administrator
+ * </p>
+ * @CreateOn 2017/3/14 9:57
  */
 public class GMApplication extends Application {
 
@@ -19,7 +21,7 @@ public class GMApplication extends Application {
         super.onCreate();
 
         Colorful.defaults()
-                .primaryColor(Colorful.ThemeColor.DARK)
+                .primaryColor(Colorful.ThemeColor.BLUE)
                 .accentColor(Colorful.ThemeColor.DEEP_ORANGE)
                 .translucent(false)
                 .night(false);
@@ -27,7 +29,7 @@ public class GMApplication extends Application {
 
         SharedPrefHelper.init(this);
         Logy.init(true);
-        ApiHelper.init(""); // TODO: 2017-02-24 add your api key to request data
-//        CrashHandler.getInstance().init(this);
+        ApiHelper.init("");
+        //CrashHandler.getInstance().init(this);
     }
 }

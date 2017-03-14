@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <com.bzu.yhd.pocketcampus.widget.SpringScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_marginTop="20dp"
+                app:cardCornerRadius="2dp"
+                app:cardElevation="2dp">
+
+                <RelativeLayout
+                    android:id="@+id/layout_user_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="?android:attr/selectableItemBackground">
+
+                    <com.bzu.yhd.pocketcampus.widget.CircleImageView
+                        android:id="@+id/photo"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="10dp"
+                        android:src="@mipmap/ic_bg"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="20dp"
+                        android:layout_marginTop="25dp"
+                        android:layout_toEndOf="@+id/photo"
+                        android:text="@string/user_home_name"
+                        android:textColor="@color/gary_30"
+                        android:textSize="16sp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerInParent="true"
+                        android:layout_marginBottom="25dp"
+                        android:layout_marginStart="20dp"
+                        android:layout_toEndOf="@+id/photo"
+                        android:text="@string/lock_user_info"
+                        android:textColor="@color/color_read"
+                        android:textSize="14sp"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                app:cardCornerRadius="2dp"
+                app:cardElevation="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_theme_change"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:background="?android:attr/selectableItemBackground">
+
+                      <ImageView
+                            android:id="@+id/image_3"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            app:srcCompat="@drawable/svg_ic_theme"
+                            android:tint="@color/color_read"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_toEndOf="@+id/image_3"
+                            android:text="@string/theme_mode"
+                            android:textColor="@color/gary_30"
+                            android:textSize="16sp"/>
+
+<!--
+                      <TextView
+                          android:id="@+id/day_night_mode_text"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:layout_centerInParent="true"
+                          android:layout_marginEnd="10dp"
+                          android:layout_toLeftOf="@+id/day_night_mode_switch"
+                          android:text="@string/day_mode"
+                          android:textColor="@color/gary_30"
+                          android:textSize="14sp"/>
+
+
+                      <com.bzu.yhd.pocketcampus.widget.BackgroundDrawableSwitchCompat
+                          android:id="@+id/day_night_mode_switch"
+                          android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:layout_centerInParent="true"
+                          android:layout_marginRight="20dp"
+                          android:layout_alignParentRight="true"
+                          android:textColor="@color/gary_30"
+                          app:switchMinWidth="60dp"
+                          app:thumbTint="@android:color/holo_blue_light" />-->
+                    </RelativeLayout>
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginStart="60dp"
+                        android:background="@color/line_bg"/>
+                    <RelativeLayout
+                        android:id="@+id/layout_setting"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:background="?android:attr/selectableItemBackground">
+
+                        <ImageView
+                            android:id="@+id/image_4"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            app:srcCompat="@drawable/svg_ic_settings"
+                            android:tint="@color/color_read"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_toEndOf="@+id/image_4"
+                            android:text="@string/common_setting"
+                            android:textColor="@color/gary_30"
+                            android:textSize="16sp"/>
+                    </RelativeLayout>
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                app:cardCornerRadius="2dp"
+                app:cardElevation="2dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_feed_back"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:background="?android:attr/selectableItemBackground">
+
+                        <ImageView
+                            android:id="@+id/image_31"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentStart="true"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            app:srcCompat="@drawable/svg_ic_feedback"
+                            android:tint="@color/color_read"/>
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true"
+                            android:layout_marginStart="20dp"
+                            android:layout_toEndOf="@+id/image_31"
+                            android:text="@string/feed_back"
+                            android:textColor="@color/gary_30"
+                            android:textSize="16sp"/>
+
+                    </RelativeLayout>
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                app:cardCornerRadius="2dp"
+                app:cardElevation="2dp">
+
+                <RelativeLayout
+                    android:id="@+id/layout_about_app"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="?android:attr/selectableItemBackground">
+
+                    <ImageView
+                        android:id="@+id/image_5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="20dp"
+                        app:srcCompat="@drawable/svg_ic_about"
+                        android:tint="@color/color_read"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:layout_marginStart="20dp"
+                        android:layout_toEndOf="@+id/image_5"
+                        android:text="@string/about_app"
+                        android:textColor="@color/gary_30"
+                        android:textSize="16sp"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+    </com.bzu.yhd.pocketcampus.widget.SpringScrollView>
+
+</LinearLayout>

@@ -65,7 +65,6 @@ public class NightModeFragment extends SideFragment {
         mNestedScrollView.setBackgroundResource(R.color.color_window_background_night);
 
         mPrimaryColorImg.setVisibility(View.INVISIBLE);
-
         mDayNightModeText.setTextColor(Color.WHITE);
         mPrimaryColorText.setTextColor(ContextCompat.getColor(getContext(), R.color.color_disable));
         mAccentColorText.setTextColor(Color.WHITE);

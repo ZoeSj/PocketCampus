@@ -161,7 +161,8 @@ public class MainActivity extends CheckPermissionsActivity implements Navigation
         mDayNightText.setText(mSwitch.isChecked() ? getString(R.string.night_mode) : getString(R.string.day_mode));
         mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
-            public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+            public void onCheckedChanged(CompoundButton compoundButton, boolean b)
+            {
                 mDrawerLayout.addDrawerListener(new MyDrawerListener());
                 mDrawerLayout.closeDrawer(GravityCompat.START);
 
@@ -206,7 +207,6 @@ public class MainActivity extends CheckPermissionsActivity implements Navigation
             showLocatedCityDialog(false, false);
             return true;
         }
-
         return super.onOptionsItemSelected(item);
     }
 

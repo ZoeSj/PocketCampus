@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\GitHub\PocketCampus\libraries\bottom-bar\src\main\assets"/><source path="D:\GitHub\PocketCampus\libraries\bottom-bar\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\GitHub\PocketCampus\libraries\bottom-bar\src\debug\assets"/></dataSet></merger>

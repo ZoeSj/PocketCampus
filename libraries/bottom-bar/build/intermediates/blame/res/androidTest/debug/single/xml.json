@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\dummy_tabs_three.xml",
+        "source": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\src\\androidTest\\res\\xml\\dummy_tabs_three.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\dummy_tabs_five.xml",
+        "source": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\src\\androidTest\\res\\xml\\dummy_tabs_five.xml"
+    }
+]

@@ -1,7 +1,6 @@
 <resources>
-  <string name="app_name">简影讯</string>
-  <string name="app_slogan">简约精彩影讯</string>
-
+  <string name="app_name">掌上校园</string>
+  <string name="app_slogan">简约精彩分享</string>
   <string name="navigation_drawer_open">Open navigation drawer</string>
   <string name="navigation_drawer_close">Close navigation drawer</string>
 
@@ -15,6 +14,7 @@
   <string name="title_activity_about">关于</string>
   <string name="day_night_mode">日夜模式</string>
   <string name="day_mode">日间模式</string>
+  <string name="theme_mode">主题风格</string>
   <string name="night_mode">夜间模式</string>
   <string name="primary_color">主&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;色</string>
   <string name="accent_color">配&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;色</string>
@@ -75,5 +75,14 @@
 
   <!-- TODO: Remove or change this placeholder text -->
   <string name="hello_blank_fragment">Hello blank fragment</string>
+
+  <string name="user_home_name">yhd</string>
+  <string name="lock_user_info">查看我的个人主页</string>
+  <string name="feed_back">意见反馈</string>
+
+  <string name="common_setting">通用设置</string>
+  <string name="about_app">关于App</string>
+
+  <string name="app_slogan_text">可到设置中开启定时自动切换日夜模式</string>
 
 </resources>

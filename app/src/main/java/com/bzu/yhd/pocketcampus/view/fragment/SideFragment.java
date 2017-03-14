@@ -170,9 +170,8 @@ public abstract class SideFragment extends Fragment {
         mAccentColorImg.setImageDrawable(tintDrawableWithColor(R.drawable.svg_ic_tie,
                 Colorful.getThemeDelegate().getAccentColor().getColorRes()));
 
-        String[] quotes = getResources().getStringArray(R.array.quotes);
-        int index = new Random().nextInt(quotes.length);
-        mQuoteText.setTextWithHtml(quotes[index]);
+
+        mQuoteText.setTextWithHtml("Tips :可到 “通用设置” 中开启定时自动切换日夜模式");
     }
 
     private void playFabAnimation() {

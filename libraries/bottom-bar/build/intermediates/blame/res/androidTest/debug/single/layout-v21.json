@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\312aa16593147aec11913cc3efb363e5f50e3b1a\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

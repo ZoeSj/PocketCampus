@@ -83,6 +83,6 @@
   <string name="common_setting">通用设置</string>
   <string name="about_app">关于App</string>
 
-  <string name="app_slogan_text">可到设置中开启定时自动切换日夜模式</string>
+  <string name="app_slogan_text">Tips :可到 “通用设置” 中“开启”定时自动切换日夜模式。</string>
 
 </resources>

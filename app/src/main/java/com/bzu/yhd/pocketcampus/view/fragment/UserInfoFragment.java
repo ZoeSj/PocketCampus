@@ -48,6 +48,7 @@ public class UserInfoFragment extends Fragment {
   @Override public View onCreateView(final LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
 
     View view = inflater.inflate(R.layout.fragment_user, container, false);
+
     rel_theme = (RelativeLayout) view.findViewById(R.id.layout_theme_change);
     rel_setting = (RelativeLayout) view.findViewById(R.id.layout_setting);
     rel_theme.setOnClickListener(new View.OnClickListener() {

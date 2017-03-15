@@ -1,15 +1,11 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
+<android.support.design.widget.CoordinatorLayout
+    android:id="@+id/drawer_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.bzu.yhd.pocketcampus.view.fragment.SecondFragment"
-    >
-
-  <!-- TODO: Update blank fragment layout -->
-  <TextView
+    android:layout_height="match_parent">
+<include
+      layout="@layout/toolbar"
       android:layout_width="match_parent"
-      android:layout_height="match_parent"
-      android:text="@string/hello_blank_fragment"
-      />
-
-</FrameLayout>
+      android:layout_height="match_parent"/>
+</android.support.design.widget.CoordinatorLayout>

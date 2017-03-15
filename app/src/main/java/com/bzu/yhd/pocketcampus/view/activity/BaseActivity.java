@@ -18,7 +18,7 @@ import org.polaric.colorful.ColorfulActivity;
 /**
  * BaseActivity
  * <p/>
- * Created by woxingxiao on 2017-02-06.
+ * Created by yhd on 2017-02-15.
  */
 
 public abstract class BaseActivity extends ColorfulActivity {

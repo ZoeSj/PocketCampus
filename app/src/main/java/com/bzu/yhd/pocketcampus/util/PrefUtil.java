@@ -4,12 +4,12 @@ import android.content.Context;
 
 import com.bzu.yhd.pocketcampus.R;
 
-
 /**
  * 方便app常用SharedPreferences直接操作类
- * <p/>
- * Created by woxingxiao on 2017-02-16.
+ * </p>
+ * @CreateBy Yhd On 2017/3/15 8:38
  */
+
 public final class PrefUtil {
 
     public static boolean checkFirstTime(Context context) {

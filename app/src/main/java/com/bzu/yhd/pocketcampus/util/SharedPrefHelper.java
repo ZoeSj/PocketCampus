@@ -3,11 +3,10 @@ package com.bzu.yhd.pocketcampus.util;
 import android.content.Context;
 import android.content.SharedPreferences;
 import android.preference.PreferenceManager;
-
 /**
  * SharedPreferences操作类
- * <p/>
- * Created by woxingxiao on 2017-02-13.
+ * </p>
+ * @CreateBy Yhd On 2017/3/15 8:38
  */
 public final class SharedPrefHelper {
 

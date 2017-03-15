@@ -93,9 +93,9 @@
             android:id="@+id/quote_text"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="@dimen/space2x"
+            android:layout_marginTop="@dimen/space4x"
             android:padding="@dimen/space"
-            tools:text="@string/app_slogan"/>
+            tools:text="@string/app_slogan_text"/>
 
     </LinearLayout>
 

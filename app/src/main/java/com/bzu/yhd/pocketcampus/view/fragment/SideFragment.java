@@ -171,7 +171,7 @@ public abstract class SideFragment extends Fragment {
                 Colorful.getThemeDelegate().getAccentColor().getColorRes()));
 
 
-        mQuoteText.setTextWithHtml("Tips :可到 “通用设置” 中开启定时自动切换日夜模式");
+        mQuoteText.setTextWithHtml("Tips :可到 “通用设置” 中“开启”定时自动切换日夜模式");
     }
 
     private void playFabAnimation() {

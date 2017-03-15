@@ -14,7 +14,7 @@ import org.polaric.colorful.Colorful;
  * </p>
  * @CreateOn 2017/3/14 9:57
  */
-public class GMApplication extends Application {
+public class MyApplication extends Application {
 
     @Override
     public void onCreate() {

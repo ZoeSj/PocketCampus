@@ -757,7 +757,6 @@ public class BottomBar extends LinearLayout implements View.OnClickListener, Vie
                 return (BottomBarTab) candidate;
             }
         }
-
         return null;
     }
 

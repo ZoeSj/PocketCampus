@@ -1,11 +1,10 @@
 package com.bzu.yhd.pocketcampus.util;
 
 import android.content.res.Resources;
-
 /**
  * 全局助手类
- * <p/>
- * Created by woxingxiao on 2017-02-11.
+ * </p>
+ * @CreateBy Yhd On 2017/3/15 8:38
  */
 public final class Util {
 

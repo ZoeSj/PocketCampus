@@ -30,8 +30,8 @@ import butterknife.OnClick;
 
 /**
  * 关于
- * <p/>
- * Created by woxingxiao on 2017-02-10.
+ * </p>
+ * @CreateBy Yhd On 2017/3/15 8:39
  */
 public class AboutActivity extends BaseActivity {
 

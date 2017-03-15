@@ -4,13 +4,13 @@ import android.util.Log;
 
 /**
  * 日志管理类
- * <p/>
- * Created by woxingxiao on 2017-02-16.
+ * </p>
+ * @CreateBy Yhd On 2017/3/15 8:37
  */
 
 public final class Logy {
 
-    private static final String TAG = "GracefulMovies";
+    private static final String TAG = "PocketCompus";
     private static boolean DEBUG;
 
     public static void init(boolean debug) {

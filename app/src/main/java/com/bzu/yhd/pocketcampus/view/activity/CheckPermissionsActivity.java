@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * 检测运行时权限
  * <p/>
- * Created by woxingxiao on 2017-01-30.
+ * Created by yhd on 2017-03-13.
  */
 public abstract class CheckPermissionsActivity extends BaseActivity implements
         ActivityCompat.OnRequestPermissionsResultCallback {

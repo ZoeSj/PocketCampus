@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\layout\\abc_screen_simple.xml"
-    },
-    {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",

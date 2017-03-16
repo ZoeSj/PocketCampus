@@ -67,6 +67,7 @@ public class UserInfoFragment extends Fragment {
           intent = new Intent();
           intent.setClass(getActivity(),SettingsActivity.class);
           getActivity().startActivity(intent);
+          getActivity().finish();
         }
       }
     });

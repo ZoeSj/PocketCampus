@@ -56,12 +56,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",

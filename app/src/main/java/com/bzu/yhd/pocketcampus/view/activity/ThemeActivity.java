@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.view.MenuItem;
+import android.view.KeyEvent;
 
 import com.bzu.yhd.pocketcampus.view.fragment.NightModeFragment;
 import com.bzu.yhd.pocketcampus.R;
@@ -17,8 +18,8 @@ import java.util.List;
 
 /**
  * 主题选择
- * <p/>
- * Created by XiaoWei on 2017-01-30.
+ * </p>
+ * @CreateBy Yhd On 2017/3/16 20:01
  */
 public class ThemeActivity extends BaseActivity {
 
@@ -82,5 +83,21 @@ public class ThemeActivity extends BaseActivity {
             }
         }
         ft.commit();
+    }
+
+    /**
+     * 监听Back键按下事件,方法1:
+     * 注意:
+     * super.onBackPressed()会自动调用finish()方法,关闭
+     * 当前Activity.
+     * 若要屏蔽Back键盘,注释该行代码即可
+     */
+    @Override
+    public void onBackPressed()
+    {
+        super.onBackPressed();
+        Intent i=new Intent();
+        i.setClass(ThemeActivity.this,HomeActivity.class);
+        startActivity(i);
     }
 }

@@ -1,11 +1,11 @@
 [
     {
-        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_bottom_navigation_item.xml"
-    },
-    {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\layout\\abc_action_menu_layout.xml"
-    },
-    {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_container.xml",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
-        "source": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\src\\main\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
-    },
-    {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5400167ad5ea7b0ec845ed7a4b813dc518a5e893\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\bb_bottom_bar_item_fixed_tablet.xml",
+        "source": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\src\\main\\res\\layout\\bb_bottom_bar_item_fixed_tablet.xml"
     },
     {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",

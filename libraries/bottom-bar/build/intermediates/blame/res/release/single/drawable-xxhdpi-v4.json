@@ -40,12 +40,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5c55f7e895f41e9f481e8478fff255a09cec358f\\output\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "D:\\GitHub\\PocketCampus\\libraries\\bottom-bar\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",

@@ -100,4 +100,5 @@ public class ThemeActivity extends BaseActivity {
         i.setClass(ThemeActivity.this,HomeActivity.class);
         startActivity(i);
     }
-}
+
+    }

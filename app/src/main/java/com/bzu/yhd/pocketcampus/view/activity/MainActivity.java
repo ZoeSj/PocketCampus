@@ -155,8 +155,10 @@ public class MainActivity extends CheckPermissionsActivity
     mSwitch.setChecked(Colorful.getThemeDelegate().isNight());
     mDayNightText.setText(
         mSwitch.isChecked() ? getString(R.string.night_mode) : getString(R.string.day_mode));
-    mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
-      @Override public void onCheckedChanged(CompoundButton compoundButton, boolean b) {
+    mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener()
+    {
+      @Override public void onCheckedChanged(CompoundButton compoundButton, boolean b)
+      {
         mDrawerLayout.addDrawerListener(new MyDrawerListener());
         mDrawerLayout.closeDrawer(GravityCompat.START);
 

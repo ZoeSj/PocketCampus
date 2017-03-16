@@ -33,8 +33,11 @@ import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import android.widget.Toast;
 import com.bzu.yhd.pocketcampus.R;
+import com.bzu.yhd.pocketcampus.util.PrefUtil;
 import com.bzu.yhd.pocketcampus.util.Util;
+import com.bzu.yhd.pocketcampus.view.activity.MainActivity;
 import com.bzu.yhd.pocketcampus.view.activity.ThemeActivity;
 import com.bzu.yhd.pocketcampus.view.widget.QuoteTextView;
 import com.bzu.yhd.pocketcampus.widget.ClipRevealFrame;
@@ -154,12 +157,18 @@ public abstract class SideFragment extends Fragment {
             mThemeActivity.getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
 
-        mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+        mSwitch.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener()
+        {
             @Override
-            public void onCheckedChanged(CompoundButton compoundButton, boolean checked) {
+            public void onCheckedChanged(CompoundButton compoundButton, boolean checked)
+            {
                 onSideSwitch(mSwitch);
-
                 Colorful.config(getContext()).night(checked).apply();
+                if (PrefUtil.isAutoDayNightMode(getContext())) {
+                    Toast.makeText(getContext(), getString(R.string.hint_auto_day_night_disabled),
+                        Toast.LENGTH_LONG).show();
+                    PrefUtil.setAutoDayNightMode(getContext(), false);
+                }
             }
         });
 

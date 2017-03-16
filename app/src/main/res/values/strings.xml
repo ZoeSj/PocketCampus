@@ -58,7 +58,7 @@
   <string name="share_out_description">"简影讯，简约多彩影讯。速查热门电影影讯和评分，即看即走。下载地址：https://fir.im/jyx"</string>
   <string name="hint_query_by_upper_city">使用【%1$s】查询无数据，使用其上级行政区【%2$s】查询？</string>
   <string name="questionnaire_url">https://gdgdocs.org/forms/d/e/1FAIpQLSdQF1HvXnvx_vki00RUTKR3PP0-ghTpYoxjfZCZWs5IAH41Pw/viewform</string>
-  <string name="hint_auto_day_night_disabled">自动切换日夜模式已关闭，到“设置”中可再开启</string>
+  <string name="hint_auto_day_night_disabled">自动切换日夜模式已关闭，到“通用设置”中可再开启</string>
 
   <string name="key_first_time">key_first_time</string>
   <string name="key_auto_day_night">key_auto_day_night</string>
